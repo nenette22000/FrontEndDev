@@ -1,0 +1,15 @@
+.about {
+    display: flex;
+    background-color: #72a795;
+    color: #EDEFEE;
+    padding: 60px;
+}
+.about h1 {
+    color: #F4CE14;
+}
+.about p{
+    color: #EDEFEE
+}
+.text-container{
+    margin-left: 200px;
+}

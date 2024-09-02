@@ -1,0 +1,58 @@
+.hero-container{
+    background-color: #72a795;
+    width: 100%;
+}
+.hero-section {
+    color: #EDEFEE;
+    display: flex;
+    justify-content: space-between;
+    width: 65%;
+    margin: 0 auto;
+    padding: 60px;
+}
+.section-left{
+    width: 80%;
+}
+.section-left h1 {
+    color: #dfbb08
+}
+.section-left h2 {
+    font-size: 40pt;
+}
+.section-left p {
+    font-family: "Markazi Text", serif;
+    font-size: 40pt;
+    color: #EDEFEE;
+}
+.btn {
+    background-color: #9b8515;
+    color: #333333;
+    padding: 20px;
+    border-radius: 20px;
+    font-size: 40pt;
+    font-weight: bold;
+    border: none;
+}
+.btn:hover {
+    background-color: #EE9972;
+}
+.section-right {
+    width: 80%;
+    position: relative;
+}
+.image-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    height: 31.25rem;
+    margin-top: 11.25rem;
+    margin-left: 3.75rem;
+    position: absolute;
+    overflow:hidden;
+}
+.image-box img{
+    width: 100%;
+}
+@media screen and (max-width: 1024px) {}
+@media screen and (max-width: 659px) {}

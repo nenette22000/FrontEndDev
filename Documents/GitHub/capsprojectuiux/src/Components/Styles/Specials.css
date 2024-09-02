@@ -1,0 +1,28 @@
+.specials {
+    width: 100%;
+    background-color: #edefee;
+    margin: 0 auto;
+}
+
+.specials-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #333333;
+    padding-left: 120px;
+    padding-right: 120px;
+}
+.btn {
+    background-color: #F4CE14;
+    color: #333333;
+    border-radius: 20px;
+    padding: 15px 45px;
+    font-size: 40pt;
+    font-weight: bold;
+}
+.btn:hover {
+    background-color: #EE9972;
+}
+
+
+@media screen and (max-width: 1024px) {}
